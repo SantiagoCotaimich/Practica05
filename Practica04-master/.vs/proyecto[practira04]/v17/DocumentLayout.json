@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Descargas\\Practica04-master\\Practica04-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1079919E-A793-4598-B987-F78FDFFEA8F9}|ServicioDLL\\ServicioDLL.csproj|d:\\descargas\\practica04-master\\practica04-master\\serviciodll\\data\\repositories\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1079919E-A793-4598-B987-F78FDFFEA8F9}|ServicioDLL\\ServicioDLL.csproj|solutionrelative:serviciodll\\data\\repositories\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1079919E-A793-4598-B987-F78FDFFEA8F9}|ServicioDLL\\ServicioDLL.csproj|D:\\Descargas\\Practica04-master\\Practica04-master\\serviciodll\\data\\repositories\\iturnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1079919E-A793-4598-B987-F78FDFFEA8F9}|ServicioDLL\\ServicioDLL.csproj|solutionrelative:serviciodll\\data\\repositories\\iturnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1079919E-A793-4598-B987-F78FDFFEA8F9}|ServicioDLL\\ServicioDLL.csproj|D:\\Descargas\\Practica04-master\\Practica04-master\\serviciodll\\data\\repositories\\serviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1079919E-A793-4598-B987-F78FDFFEA8F9}|ServicioDLL\\ServicioDLL.csproj|solutionrelative:serviciodll\\data\\repositories\\serviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1079919E-A793-4598-B987-F78FDFFEA8F9}|ServicioDLL\\ServicioDLL.csproj|D:\\Descargas\\Practica04-master\\Practica04-master\\serviciodll\\data\\repositories\\iserviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1079919E-A793-4598-B987-F78FDFFEA8F9}|ServicioDLL\\ServicioDLL.csproj|solutionrelative:serviciodll\\data\\repositories\\iserviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1079919E-A793-4598-B987-F78FDFFEA8F9}|ServicioDLL\\ServicioDLL.csproj|D:\\Descargas\\Practica04-master\\Practica04-master\\serviciodll\\data\\models\\turnosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1079919E-A793-4598-B987-F78FDFFEA8F9}|ServicioDLL\\ServicioDLL.csproj|solutionrelative:serviciodll\\data\\models\\turnosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1079919E-A793-4598-B987-F78FDFFEA8F9}|ServicioDLL\\ServicioDLL.csproj|D:\\Descargas\\Practica04-master\\Practica04-master\\serviciodll\\data\\models\\turnorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1079919E-A793-4598-B987-F78FDFFEA8F9}|ServicioDLL\\ServicioDLL.csproj|solutionrelative:serviciodll\\data\\models\\turnorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1079919E-A793-4598-B987-F78FDFFEA8F9}|ServicioDLL\\ServicioDLL.csproj|D:\\Descargas\\Practica04-master\\Practica04-master\\serviciodll\\data\\models\\tturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1079919E-A793-4598-B987-F78FDFFEA8F9}|ServicioDLL\\ServicioDLL.csproj|solutionrelative:serviciodll\\data\\models\\tturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9372C74-E952-4D16-AB04-A9F20575F91B}|proyecto[practira04]\\proyecto[practira04].csproj|D:\\Descargas\\Practica04-master\\Practica04-master\\proyecto[practira04]\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9372C74-E952-4D16-AB04-A9F20575F91B}|proyecto[practira04]\\proyecto[practira04].csproj|solutionrelative:proyecto[practira04]\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9372C74-E952-4D16-AB04-A9F20575F91B}|proyecto[practira04]\\proyecto[practira04].csproj|D:\\Descargas\\Practica04-master\\Practica04-master\\proyecto[practira04]\\controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9372C74-E952-4D16-AB04-A9F20575F91B}|proyecto[practira04]\\proyecto[practira04].csproj|solutionrelative:proyecto[practira04]\\controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9372C74-E952-4D16-AB04-A9F20575F91B}|proyecto[practira04]\\proyecto[practira04].csproj|D:\\Descargas\\Practica04-master\\Practica04-master\\proyecto[practira04]\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9372C74-E952-4D16-AB04-A9F20575F91B}|proyecto[practira04]\\proyecto[practira04].csproj|solutionrelative:proyecto[practira04]\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9372C74-E952-4D16-AB04-A9F20575F91B}|proyecto[practira04]\\proyecto[practira04].csproj|D:\\Descargas\\Practica04-master\\Practica04-master\\proyecto[practira04]\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9372C74-E952-4D16-AB04-A9F20575F91B}|proyecto[practira04]\\proyecto[practira04].csproj|solutionrelative:proyecto[practira04]\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1079919E-A793-4598-B987-F78FDFFEA8F9}|ServicioDLL\\ServicioDLL.csproj|D:\\Descargas\\Practica04-master\\Practica04-master\\serviciodll\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1079919E-A793-4598-B987-F78FDFFEA8F9}|ServicioDLL\\ServicioDLL.csproj|solutionrelative:serviciodll\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TTurno.cs",
+              "DocumentMoniker": "D:\\Descargas\\Practica04-master\\Practica04-master\\ServicioDLL\\Data\\Models\\TTurno.cs",
+              "RelativeDocumentMoniker": "ServicioDLL\\Data\\Models\\TTurno.cs",
+              "ToolTip": "D:\\Descargas\\Practica04-master\\Practica04-master\\ServicioDLL\\Data\\Models\\TTurno.cs",
+              "RelativeToolTip": "ServicioDLL\\Data\\Models\\TTurno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T23:29:49.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TurnoRequest.cs",
+              "DocumentMoniker": "D:\\Descargas\\Practica04-master\\Practica04-master\\ServicioDLL\\Data\\Models\\TurnoRequest.cs",
+              "RelativeDocumentMoniker": "ServicioDLL\\Data\\Models\\TurnoRequest.cs",
+              "ToolTip": "D:\\Descargas\\Practica04-master\\Practica04-master\\ServicioDLL\\Data\\Models\\TurnoRequest.cs",
+              "RelativeToolTip": "ServicioDLL\\Data\\Models\\TurnoRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T23:16:32.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "efpt.config.json",
+              "DocumentMoniker": "D:\\Descargas\\Practica04-master\\Practica04-master\\ServicioDLL\\efpt.config.json",
+              "RelativeDocumentMoniker": "ServicioDLL\\efpt.config.json",
+              "ToolTip": "D:\\Descargas\\Practica04-master\\Practica04-master\\ServicioDLL\\efpt.config.json",
+              "RelativeToolTip": "ServicioDLL\\efpt.config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T22:46:36.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TurnosController.cs",
+              "DocumentMoniker": "D:\\Descargas\\Practica04-master\\Practica04-master\\proyecto[practira04]\\Controllers\\TurnosController.cs",
+              "RelativeDocumentMoniker": "proyecto[practira04]\\Controllers\\TurnosController.cs",
+              "ToolTip": "D:\\Descargas\\Practica04-master\\Practica04-master\\proyecto[practira04]\\Controllers\\TurnosController.cs",
+              "RelativeToolTip": "proyecto[practira04]\\Controllers\\TurnosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:37:39.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TurnoRepository.cs",
+              "DocumentMoniker": "D:\\Descargas\\Practica04-master\\Practica04-master\\ServicioDLL\\Data\\Repositories\\TurnoRepository.cs",
+              "RelativeDocumentMoniker": "ServicioDLL\\Data\\Repositories\\TurnoRepository.cs",
+              "ToolTip": "D:\\Descargas\\Practica04-master\\Practica04-master\\ServicioDLL\\Data\\Repositories\\TurnoRepository.cs",
+              "RelativeToolTip": "ServicioDLL\\Data\\Repositories\\TurnoRepository.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAswHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:08:34.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITurnoRepository.cs",
+              "DocumentMoniker": "D:\\Descargas\\Practica04-master\\Practica04-master\\ServicioDLL\\Data\\Repositories\\ITurnoRepository.cs",
+              "RelativeDocumentMoniker": "ServicioDLL\\Data\\Repositories\\ITurnoRepository.cs",
+              "ToolTip": "D:\\Descargas\\Practica04-master\\Practica04-master\\ServicioDLL\\Data\\Repositories\\ITurnoRepository.cs",
+              "RelativeToolTip": "ServicioDLL\\Data\\Repositories\\ITurnoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:03:14.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TurnosDBContext.cs",
+              "DocumentMoniker": "D:\\Descargas\\Practica04-master\\Practica04-master\\ServicioDLL\\Data\\Models\\TurnosDBContext.cs",
+              "RelativeDocumentMoniker": "ServicioDLL\\Data\\Models\\TurnosDBContext.cs",
+              "ToolTip": "D:\\Descargas\\Practica04-master\\Practica04-master\\ServicioDLL\\Data\\Models\\TurnosDBContext.cs",
+              "RelativeToolTip": "ServicioDLL\\Data\\Models\\TurnosDBContext.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:01:07.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Descargas\\Practica04-master\\Practica04-master\\proyecto[practira04]\\appsettings.json",
+              "RelativeDocumentMoniker": "proyecto[practira04]\\appsettings.json",
+              "ToolTip": "D:\\Descargas\\Practica04-master\\Practica04-master\\proyecto[practira04]\\appsettings.json",
+              "RelativeToolTip": "proyecto[practira04]\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T22:59:38.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Descargas\\Practica04-master\\Practica04-master\\proyecto[practira04]\\Program.cs",
+              "RelativeDocumentMoniker": "proyecto[practira04]\\Program.cs",
+              "ToolTip": "D:\\Descargas\\Practica04-master\\Practica04-master\\proyecto[practira04]\\Program.cs",
+              "RelativeToolTip": "proyecto[practira04]\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T22:58:33.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "D:\\Descargas\\Practica04-master\\Practica04-master\\proyecto[practira04]\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "proyecto[practira04]\\Controllers\\ServiciosController.cs",
+              "ToolTip": "D:\\Descargas\\Practica04-master\\Practica04-master\\proyecto[practira04]\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "proyecto[practira04]\\Controllers\\ServiciosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T22:30:01.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicioRepository.cs",
+              "DocumentMoniker": "D:\\Descargas\\Practica04-master\\Practica04-master\\ServicioDLL\\Data\\Repositories\\ServicioRepository.cs",
+              "RelativeDocumentMoniker": "ServicioDLL\\Data\\Repositories\\ServicioRepository.cs",
+              "ToolTip": "D:\\Descargas\\Practica04-master\\Practica04-master\\ServicioDLL\\Data\\Repositories\\ServicioRepository.cs",
+              "RelativeToolTip": "ServicioDLL\\Data\\Repositories\\ServicioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T22:18:15.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IServicioRepository.cs",
+              "DocumentMoniker": "D:\\Descargas\\Practica04-master\\Practica04-master\\ServicioDLL\\Data\\Repositories\\IServicioRepository.cs",
+              "RelativeDocumentMoniker": "ServicioDLL\\Data\\Repositories\\IServicioRepository.cs",
+              "ToolTip": "D:\\Descargas\\Practica04-master\\Practica04-master\\ServicioDLL\\Data\\Repositories\\IServicioRepository.cs",
+              "RelativeToolTip": "ServicioDLL\\Data\\Repositories\\IServicioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T22:12:57.595Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
